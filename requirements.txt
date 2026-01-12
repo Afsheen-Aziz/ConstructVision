@@ -3,5 +3,6 @@ gunicorn==21.2.0
 torch==2.6.0
 torchvision==0.21.0
 opencv-python-headless==4.8.0.76
+pandas==2.2.3
 Werkzeug==2.3.7
 ultralytics
